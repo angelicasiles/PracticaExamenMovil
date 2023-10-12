@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">juegozar</string>
+    <string name="advertencia_juego_dado">Advertencia: Jugar a los dados no es intrínsecamente "malo", pero como con
+        cualquier forma de juego, puede tener consecuencias negativas si no se practica con responsabilidad....</string>
+</resources>
